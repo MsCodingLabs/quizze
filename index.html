@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+    </style>
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz</title>
+  </head>
+
+  <body>
+    <!--Container mit Inhalten erstellen.-->
+    <div class="quiz">
+      <div id="title" class="quiz_title"></div>
+      <!-- Quiz Name -->
+      <div class="quiz_progress-wrap">
+        <!-- Fortschrittsbalke -->
+        <div class="quiz_progress">
+          <!-- Fortschrittsverlauf -->
+          <div id="progress-fill" class="quiz_progress-fill"></div>
+        </div>
+        <div class="quiz_progress-questions">
+          <strong id="question-number"></strong>
+          <!-- Aktuelle Frage-Nr. wird durch "strong" hervorgehoben -->
+          <span>/</span>
+          <!--"span" gruppiert Text, um ihn zu stylen-->
+          <span id="total-questions"></span>
+          <!-- Gesamtzahl der Fragen -->
+        </div>
+      </div>
+
+      <div id="question-wrap" class="quiz_question">
+        <!-- Frage -->
+        <strong id="question-position">1.</strong>
+        <!-- Aktuelle Frage-Nr. -->
+        <span id="question"></span>
+        <!-- Fragetext -->
+      </div>
+
+      <div id="answers" class="quiz_answers"></div>
+      <!-- Antworten anzeigen (z.B. Häckchen oder Kreuz) -->
+      <div id="next" class="quiz_btn">Nächste Frage</div>
+      <!-- Button "Nächste Frage"  -->
+      <div id="result" class="quiz_result" style="display: none">
+        <!-- Ergebnisse am Schluss des Quiz anzeigen -->
+        <div class="quiz_result_title">🎉</div>
+        <div class="quiz_result_info">
+          <span>Richtige Antworten:</span>
+          <span id="valid-answers" class="quiz_result-num">0</span>
+          <span>von</span>
+          <span id="result-total-questions">0</span>
+        </div>
+      </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
