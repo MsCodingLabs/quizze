@@ -3,7 +3,7 @@
 Teste dein Wissen über Hauptstädte und Länder in einem unterhaltsamen, interaktiven Quizspiel. Mit Sofortauswertung, Fortschrittsbalken und einem eleganten Ergebnisbildschirm – ideal für alle, die Spaß am Lernen haben und gern Neues über die Welt entdecken!
 
 ## Screenshot
-![quizze]([https://github.com/MsCodingLabs/ToDoTaskMaster/blob/main/ToDoTaskMaster.png](https://github.com/MsCodingLabs/quizze/blob/main/quizze.png)]
+![quizze.png]([https://github.com/MsCodingLabs/ToDoTaskMaster/blob/main/ToDoTaskMaster.png](https://github.com/MsCodingLabs/quizze/blob/main/quizze.png)]
 
 ## ✨ Features
 
