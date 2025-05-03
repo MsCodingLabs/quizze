@@ -1,30 +1,22 @@
-# 🌍 Weltreise Quiz – Interaktive Wissensreise rund um den Globus! 🌎
+# 🌍 Weltreise Quiz – Entdecke die Welt, Frage für Frage! 🌎
 
-Teste dein Wissen über Hauptstädte und Länder in einem unterhaltsamen, interaktiven Quizspiel. Mit Sofortauswertung, Fortschrittsbalken und einem eleganten Ergebnisbildschirm – ideal für alle, die Spaß am Lernen haben und gern Neues über die Welt entdecken!
+Kennst du die Hauptstadt von Nepal? Oder von Kanada?  
+Finde es heraus – in einem schnellen, spaßigen Quiz mit Live-Feedback und deinem ganz persönlichen Ergebnis am Ende!
 
 ## Screenshot
 ![ToDoTaskMaster.png](https://github.com/MsCodingLabs/quizze/blob/main/quizze.png)
 
-## ✨ Features
+## 🚀 Was dich erwartet
 
-- **Multiple-Choice-Fragen** zu Ländern und Hauptstädten  
-- **Fortschrittsbalken**, der deinen Quizverlauf anzeigt  
-- **Direktes Feedback** nach jeder Antwort  
-- **Endbildschirm mit Ergebnisanzeige**  
+- 🧠 3 Fragen – 3 Chancen, dein Wissen zu beweisen  
+- 📈 Fortschrittsanzeige & Punktestand in Echtzeit  
+- ✅ Sofort-Feedback nach jeder Antwort  
+- 🏁 Ergebnis-Screen 
 
-## 🌐 Verwendete Technologien
+## ▶️ Los geht’s
 
-- **HTML** – Struktur des Spiels  
-- **CSS** – Gestaltung und Layout  
-- **JavaScript** – Logik für Fragen, Auswertung und Interaktion
-
-## 🚀 So funktioniert’s
-
-1. Öffne die Datei `index.html` im Browser.  
-2. Wähle bei jeder Frage die richtige Antwort.  
-3. Behalte deinen Fortschritt mit dem Balken im Blick.  
-4. Am Ende erhältst du deine Punktzahl – und kannst gleich nochmal spielen!
+Einfach `index.html` öffnen – und die Weltreise beginnt!
 
 ---
 
-> Ein tolles Lernspiel für Schüler:innen, Reiseliebhaber:innen und Quiz-Fans! 🌟
+> Für Wissensjäger, Globetrotter & alle, die keine langweiligen Quiz mögen. 😉
